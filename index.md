@@ -1,9 +1,9 @@
-# Freelance Software Architect; Interim CTO, Project Management, Consulting, Agile Coaching, PHP Full-Stack Development
+## Freelance Software Architect; Interim CTO, Project Management, Consulting, Agile Coaching, PHP Full-Stack Development
 
-## Freelancer Resume
+### Freelancer Resume
 
-[DEUTSCH](https://www.gulp.de/gulp2/g/spezialisten/profil/MarekGrudzinski) | [ENGLISH](https://www.gulp.de/gulp2/g/spezialisten/resume/MarekGrudzinski) (powered by GULP)
+[DEUTSCH](https://www.gulp.de/gulp2/g/spezialisten/profil/MarekGrudzinski) \| [ENGLISH](https://www.gulp.de/gulp2/g/spezialisten/resume/MarekGrudzinski) (powered by GULP)
 
-## Connect
+### Connect
 
-[Email](mailto:mail@marek-grudzinski.de) | [LinkedIn](https://www.linkedin.com/in/marek-grudzinski) | [XING](https://www.xing.com/profile/Marek_Grudzinski2) | [GitHub](https://github.com/grudda) | [Twitter](https://twitter.com/originalgrudda)
+[Email](mailto:mail@marek-grudzinski.de) \| [LinkedIn](https://www.linkedin.com/in/marek-grudzinski) \| [XING](https://www.xing.com/profile/Marek_Grudzinski2) \| [GitHub](https://github.com/grudda) \| [Twitter](https://twitter.com/originalgrudda)
