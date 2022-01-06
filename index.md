@@ -2,7 +2,7 @@
 
 ### Freelancer Resume
 
-[DEUTSCH](https://www.gulp.de/gulp2/g/spezialisten/profil/MarekGrudzinski) \| [ENGLISH](https://www.gulp.de/gulp2/g/spezialisten/resume/MarekGrudzinski) (powered by GULP)
+[DEUTSCH](https://www.gulp.de/gulp2/g/spezialisten/profil/MarekGrudzinski){:target="_blank"} \| [ENGLISH](https://www.gulp.de/gulp2/g/spezialisten/resume/MarekGrudzinski){:target="_blank"}  (powered by GULP)
 
 ### Connect
 
