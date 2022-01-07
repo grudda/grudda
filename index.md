@@ -11,6 +11,6 @@
 
 
 
-<span style="display: block; text-align: center;width: 100%">
+<span style="display: block; text-align: center; width: 100%; margin-top: 5em;">
 ![© Marek Grudzinski](assets/img/logo_trans_64x64.png)
 </span>
