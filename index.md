@@ -11,4 +11,6 @@
 
 
 
-<div style="text-align: center;width: 100%">![© Marek Grudzinski](assets/img/logo_trans_64x64.pn)</div>
+<div style="text-align: center;width: 100%">
+![© Marek Grudzinski](assets/img/logo_trans_64x64.png)
+</div>
