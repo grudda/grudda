@@ -8,4 +8,9 @@
 
 [Email](mailto:mail@marek-grudzinski.de){:target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/marek-grudzinski){:target="_blank"} \| [XING](https://www.xing.com/profile/Marek_Grudzinski2){:target="_blank"} \| [GitHub](https://github.com/grudda) \| [Twitter](https://twitter.com/originalgrudda){:target="_blank"}
 
-<div style="text-align: center;width: 100%"><img src="/profile/assets/img/logo_trans_64x64.png" alt="© Marek Grudzinski"/></div>
+
+
+
+<span style="display: block; text-align: center; width: 100%; margin-top: 5em;">
+![© Marek Grudzinski](assets/img/logo_trans_64x64.png)
+</span>
