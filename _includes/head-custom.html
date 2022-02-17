@@ -1,7 +1,15 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
-{% include head-custom-google-analytics.html %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3319420-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3319420-3');
+</script>
 
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ 'assets/favicon.ico' | relative_url }}">
